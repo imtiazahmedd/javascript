@@ -1,0 +1,29 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\imtiaz\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase open
+[debug] CLI Version:  3.0.4
+[debug] Platform:     win32
+[debug] Node Version: v4.4.7
+[debug] Time:         Fri Sep 23 2016 11:06:49 GMT-0700 (Pacific Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/calculatorproject-ffb1d 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/calculatorproject-ffb1d/tokens 
+[debug] <<< HTTP RESPONSE 200
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\imtiaz\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase open
+[debug] CLI Version:  3.0.4
+[debug] Platform:     win32
+[debug] Node Version: v4.4.7
+[debug] Time:         Fri Sep 23 2016 12:12:00 GMT-0700 (Pacific Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/calculatorproject-ffb1d 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/calculatorproject-ffb1d/tokens 
+[debug] <<< HTTP RESPONSE 200
