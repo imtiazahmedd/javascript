@@ -1,0 +1,35 @@
+div.main{
+    border :30px solid darkblue;
+    border-radius: 5px;
+    width: 500px;
+    height : 650px;
+    margin: 0px auto 0px auto;
+    
+}
+.imgclip{
+    width: 500px;
+}
+.heading2{
+ margin: 5px;
+ font-weight: bold;
+ color: darkblue;
+}
+.frontimg{
+    width: 100px;
+    height: 60px;
+    margin-left: 140px; 
+}
+.back{
+    width: 180px;
+    height: 80px;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+.two{
+    margin-left: 20px;
+    padding: 10px;
+    color: mediumseagreen;
+}
+.paragraph{
+    margin-left: 90px;
+}
