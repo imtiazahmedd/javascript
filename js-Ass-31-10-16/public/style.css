@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    font-size: 120%;
+    color: red;
+  
+}
