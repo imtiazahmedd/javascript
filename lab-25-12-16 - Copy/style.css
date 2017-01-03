@@ -1,0 +1,28 @@
+.header{
+    height: 100px;
+    background-color: #e60000;
+}
+.heading{
+    font-size: 250%;
+    color: #ffffff;
+    font-weight: bold;
+    float: none;
+    text-align: center;
+    padding-top: 20px; 
+}
+.myform{
+    margin-top: 5%;
+    width: 100%;
+    display: block;
+    
+}
+.myform form{
+    margin: 0 auto;
+    width: 60%;
+}
+#demo{
+    height: 20px;
+    color: red;
+    font-weight: bold;
+    font-size: 1em;
+}
