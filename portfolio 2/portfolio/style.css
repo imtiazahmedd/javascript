@@ -1,0 +1,43 @@
+
+ 
+   .image{
+       width: 200px;
+       height: 200px;
+       border-radius: 50%;
+       border: 7px dotted red ;
+       padding: 10px;
+       margin: 30px;
+         transition: 0.5s ease-in;
+        
+    
+      
+   }
+   #id1:hover{
+       width: 300px;
+       height: 300px;
+     
+   }
+     #id2:hover{
+       width: 300px;
+       height: 300px;
+       transform: rotate(360deg);
+     
+   }
+     #id3:hover{
+       width: 300px;
+       height: 300px;
+       transform: rotate(360deg);
+     
+   }
+     #id4:hover{
+       width: 300px;
+       height: 300px;
+       transform: rotate(360deg);
+     
+   }
+  #id5{
+      font-size: 30px;
+      margin-left: 20px;
+  }
+
+  
